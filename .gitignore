@@ -1,10 +1,4 @@
 .states/
 templates/
-contracts/class-01/exercises/artifacts
-contracts/class-02/exercises/artifacts
-contracts/class-03/exercises/artifacts
-contracts/class-04/exercises/artifacts
-contracts/class-05/exercises/artifacts
-contracts/class-06/exercises/artifacts
-projects/module-01/exercises/artifacts
-projects/module-02/exercises/artifacts
+**/artifacts/
+.deps
